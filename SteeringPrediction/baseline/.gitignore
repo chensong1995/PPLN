@@ -1,0 +1,7 @@
+data
+saved_weights
+**/__pycache__
+*.pyc
+*.swp
+*.sh
+*.txt
