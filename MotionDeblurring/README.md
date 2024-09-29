@@ -16,17 +16,17 @@ MotionDeblurring
 
 ## Running the Model
 
-To train the model with PSNN and constant normalization, please run:
+To train the model with PPLN and constant normalization, please run:
 ```
 python src/train.py --constant_norm 1 --sconv 1 --save_dir saved_weights/constant
 ```
 
-To train the model with PSNN and without constant normalization, please run:
+To train the model with PPLN and without constant normalization, please run:
 ```
 python src/train.py --constant_norm 0 --sconv 1 --save_dir saved_weights/none
 ```
 
-To train a large U-Net without PSNN layers, please run:
+To train a large U-Net without PPLN layers, please run:
 ```
 python src/train.py --constant_norm 0 --sconv 0 --save_dir saved_weights/unet
 ```

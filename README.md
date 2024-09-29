@@ -16,7 +16,7 @@ conda activate ppln
 ```
 
 ## Experiments
-Please refer to [SteeringPrediction/README.md](SteeringPrediction/README.md), [HumanPoseEstimation/README.md](HumanPoseEstimation/README.md), and [MotionDeblurring/README.md](MotionDeblurring/README.md) for instructions to work with PSNNs on three example tasks described in our paper.
+Please refer to [SteeringPrediction/README.md](SteeringPrediction/README.md), [HumanPoseEstimation/README.md](HumanPoseEstimation/README.md), and [MotionDeblurring/README.md](MotionDeblurring/README.md) for instructions to work with PPLNs on three example tasks described in our paper.
 
 ## Using PPLNs in Your Project
 We provide the implementation of `SpikingConv2d`, `SpikingConvTranspose2d`, and `SpikingLinear` in [modules.py](HumanPoseEstimation/ours/lib/models/modules.py). They are extensions to `nn.Conv2d`, `nn.ConvTranspose2d`, and `nn.Linear`.
