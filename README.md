@@ -1,6 +1,6 @@
 # PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond
 
-This repository contains authors' implementation of [PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond](https://arxiv.org/). Our implementation uses the PyTorch library. We warmly welcome any discussions related to our implementation and our paper. Please feel free to open an issue.
+This repository contains authors' implementation of [PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond](https://arxiv.org/abs/2409.19772). Our implementation uses the PyTorch library. We warmly welcome any discussions related to our implementation and our paper. Please feel free to open an issue.
 
 
 ## Introduction
